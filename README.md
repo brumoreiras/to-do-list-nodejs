@@ -12,11 +12,11 @@ Antes de executar o projeto, certifique-se de ter o Node.js instalado em seu com
 
 ```git clone https://github.com/brumoreiras/to-do-list-nodejs.git```
 
-2. Navegue até a pasta do projeto:
+2.Navegue até a pasta do projeto:
 
 ```cd nome-do-repositorio```
 
-3. Instale as dependências do projeto:
+3.Instale as dependências do projeto:
 
 ```npm install```
 
